@@ -4,7 +4,10 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   <div id="test">
     <Test msg="Congratulations"/>
+
   </div>  
+  <div id="button">
+  </div>
   </div>
 </template>
 
